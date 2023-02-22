@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "aerial-jigsaw-378603",
+  "private_key_id": "59563a9b93567bc7960c09c85bec4fdf9f17958a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC/ihgWmdo+Umql\npCrQ6tYtPAyYhTsSCZKpTAV5jgslrZlBPD4YFclAaDYoc77J64c+6CfOGwNV0PmA\nnF8HX4krGQ2UFqN6K/hNq3TdjdWZigFPOYZbG4/RAc4D6W5E7W3mkygpfqwGLytP\niUbBciaSMmrI00h2aC5E8foSKt54vO5r0kKkzLs4ifyK4GzV/p+fRR53EMaoXcGV\n78bXJqJdG5D1s32jP1X1VTBOdMichakNYm+9/vloJ7YtRhTnrX3um5ZtJsqKTAiz\nysPcwvN2mh3J2HhQU5FPglwWGx4rw3k0HAz/heJQeW4MJTTsIeEB3jL1UTAjEWN8\nV6HlqJ8XAgMBAAECggEAAVr2xm7tjXyIVUZvwL4sFjuFbRr0z4A4jfPii0VK6zvJ\nWv9pfMjC3xA0khdTlCn05Rv86ULNJhLaaFpOVrGQuXWn5kxiC1LcwWLMdymKjZqm\nmm+BdbXRVhtxFzPaS3HyXevoyuovDG8bP/4jOlgZgjMV8H6pGMU0SLTxJwgvn9Dv\nSTR2fIQlXRDGkk8WliPsm89jESFahMz5NKdNM0DeMn6kVnzj2qV4er3aVrAVlYRn\naoLSd0P0iAbl7hlQtTgtY8qXwEMdlZRHth5RHmxlVnxzhAwRuNo2THZoj1Qsff1J\nFNxCrlA2tKhMNINPtco+S2du+U0v9PCPBi7o0M8ywQKBgQDutDh06WZOmyuepsm7\naG1EUKBxm2yH3GTjZyKMOHZIJT1Fm0XVyzXPzlxVeF9rIz+O4+qtxNHeU69nTDi9\n+sr7LCL/C2E7P5gPDvuv0DgiAsh9dTS5nOReEcDQ+bRRCO1y2iJcwNqwThhNGFoJ\neO21lGMylv7IoyztAdweLLUhVwKBgQDNawGqLT5Zi3SswlOG/gLfdMMvFuXa82uz\ncsAqgGu0K7UJZGWbYG8pG+s08LB+q9gjrCEdLofYBHk5wkCdW0AL++6LvODxqC1U\nDLUbV7CbUBsFCeJD+APgk3hYzBvtrouDcD/JjuqrQJYzNVUK2aiMx9X74AAxQEgP\nO4V3Be0YQQKBgDZbe+/DprSHyWsbeBzhLuC7q42zYwedPKw8NDXSNb1AHa/YKBMD\nb4Ge8I/WFYSERlj3td1UUKZcUDkptlIs5kRETMPfh4jCdpIXS2FB/UZhc9597j/G\nZoq1aD8uXc2GRuw8mE6e7C3x2r7TqM03aIpM/DntAKAX6IcgQUvtymGJAoGAYroN\nQMch8lOOLgHvty+aHd+2d4lfy822c7axGTxDh4KCLhNsqjK8+lsKvpT3nsnkxbBS\n8f2NGIt93/62o2pZ6+iXi92plzunHYBGAvAwV1U2x0Mq1lP7ORJngvYGbkO3leJ7\nJdpkew49ojr9totJ8O+Srs3ICePFPlzzFnNosoECgYBxggYtKpnLnoyTbvdE47/E\ndChfCx7igTEUXqZxqQ8eBMYNlX2BVropnQXlU3BS0l9UOrKl6kuKwJt/ncYyjT/z\nsJgLGgZAYcnj49pPE+c7FrFMkvgi+fxmZS4KzMmu1xAYWJ0fgDWEwE1fy3GZ7Wb/\nDHvNoFToMgbZg+rFbHm5EQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "duo-cyb@aerial-jigsaw-378603.iam.gserviceaccount.com",
+  "client_id": "104880301969193079773",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/duo-cyb%40aerial-jigsaw-378603.iam.gserviceaccount.com"
+}
